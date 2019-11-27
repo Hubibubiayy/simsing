@@ -1,0 +1,8 @@
+.button-blue { 
+	background-color:#52b236;
+	padding: 15px 20px ;
+	border-radius:6px;
+	color: white;
+	font-weight:bold;
+	box-shadow: 8px 8px 0px rgba(0, 0, 0, 0.29);
+ }

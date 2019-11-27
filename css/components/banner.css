@@ -1,0 +1,16 @@
+.banner {
+	background-image: linear-gradient(0deg, #060202a6 0%, #0602024a 50%), url(../../images/background.JPG);
+	background-size: cover;
+	background-position: center;
+	color: white;
+	padding: 150px 0px;
+		}
+.banner h1 {
+	font-size:50px;
+	font-weight: bold;
+}
+.banner h2 {
+	font-weight: lighter;
+	padding-bottom: 60px;
+	opacity:0.9;
+}
